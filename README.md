@@ -1,6 +1,8 @@
 # Estoque-e-Vendas
 Programa Python rodando em Prompt, para controle de estoque e realização de vendas, para pequenos comércios.
 
+Para baixar o executável para windows baixe a pasta "estoque e vendas" completa. Esta pasta tem tudo que você precisa para rodar o programa.
+
 Manual do Programa de Estoque
 
 Este programa de Prompt foi projetado para ser intuitivo e fácil de usar, permitindo a administração e o gerenciamento do estoque de pequenos comércios.
