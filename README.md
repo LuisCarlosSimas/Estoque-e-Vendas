@@ -12,27 +12,43 @@ Modo de Uso
 No primeiro uso, comece adicionando um novo produto ao estoque. Ao adicionar seu primeiro produto, um novo estoque será gerado, e você poderá começar a utilizar os recursos do programa.
 
 [1]Adicionar um Novo Produto ao Estoque
-    -No menu de interação, digite [1] para adicionar um novo produto ao estoque:
-        .Nome do Produto: Digite o nome do produto em questão. (Se "voltar" for digitado neste campo, o programa retornará ao menu de interação principal.)
-        .Código de Referência: Digite o código de referência do produto. (Atenção: os códigos de referência de cada produto devem ser únicos. Se já existir um produto com o mesmo código no sistema, você será solicitado a inserir um novo código para o produto. O código do produto é importante para a identificação de produtos no estoque, principalmente se existirem produtos com nomes semelhantes.)
-        .Valor Unitário: Insira o preço da unidade do produto no cadastro.
-        .Quantidade de Unidades Recebidas: Informe a quantidade de unidades em estoque do produto no cadastro.
+
+-No menu de interação, digite [1] para adicionar um novo produto ao estoque:    
+		
+.Nome do Produto: Digite o nome do produto em questão. (Se "voltar" for digitado neste campo, o programa retornará ao menu de interação principal.)
+    	
+.Código de Referência: Digite o código de referência do produto. (Atenção: os códigos de referência de cada produto devem ser únicos. Se já existir um produto com o mesmo código no sistema, você será solicitado a inserir um novo código para o produto. O código do produto é importante para a identificação de produtos no estoque, principalmente se existirem produtos com nomes semelhantes.)
+    	
+.Valor Unitário: Insira o preço da unidade do produto no cadastro.
+
+.Quantidade de Unidades Recebidas: Informe a quantidade de unidades em estoque do produto no cadastro.
 
 [2]Atualizar Produto em Estoque
-    -Esta opção permite a alteração de qualquer informação de um produto cadastrado no estoque. Ao fazer uma alteração no estoque, você será solicitado a informar o nome ou código do produto. (Se "voltar" for digitado neste campo, o programa retornará ao menu de interação principal.)
-    -Se você digitar o código, terá acesso direto ao produto.
-    -Se digitar o nome e existirem produtos com o mesmo nome em estoque, você receberá uma lista para selecionar o produto correto com base em seu código específico.
-    -Alterações no Produto:
-        .Dentro do menu de alteração do produto, você pode renomear, alterar o código, preço, quantidade em estoque ou excluir o produto. (Se "voltar" for digitado em qualquer um desses campos, o programa retornará ao menu de alteração do produto.)
+
+-Esta opção permite a alteração de qualquer informação de um produto cadastrado no estoque. Ao fazer uma alteração no estoque, você será solicitado a informar o nome ou código do produto. (Se "voltar" for digitado neste campo, o programa retornará ao menu de interação principal.)
+
+-Se você digitar o código, terá acesso direto ao produto.
+
+-Se digitar o nome e existirem produtos com o mesmo nome em estoque, você receberá uma lista para selecionar o produto correto com base em seu código específico.
+
+-Alterações no Produto:
+
+.Dentro do menu de alteração do produto, você pode renomear, alterar o código, preço, quantidade em estoque ou excluir o produto. (Se "voltar" for digitado em qualquer um desses campos, o programa retornará ao menu de alteração do produto.)
 
 [3]Registrar Vendas
-    -Ao fazer uma venda, você deverá informar o nome ou código do produto. (Se "voltar" for digitado neste campo, o programa retornará ao menu de interação principal.)
-    -Se você digitar o código, terá acesso direto ao produto.
-    -Se digitar o nome e existirem produtos com o mesmo nome em estoque, você receberá uma lista para selecionar o produto correto com base em seu código específico.
-    -Ao finalizar uma venda, você poderá remover produtos da compra, caso o cliente não os queira ou ocorra algum erro. Para remover um produto do carrinho de compras, digite o número correspondente na lista de compras. (Se "voltar" for digitado neste campo, o programa retornará à pergunta anterior.)
+
+-Ao fazer uma venda, você deverá informar o nome ou código do produto. (Se "voltar" for digitado neste campo, o programa retornará ao menu de interação principal.)
+
+-Se você digitar o código, terá acesso direto ao produto.
+
+-Se digitar o nome e existirem produtos com o mesmo nome em estoque, você receberá uma lista para selecionar o produto correto com base em seu código específico.
+
+-Ao finalizar uma venda, você poderá remover produtos da compra, caso o cliente não os queira ou ocorra algum erro. Para remover um produto do carrinho de compras, digite o número correspondente na lista de compras. (Se "voltar" for digitado neste campo, o programa retornará à pergunta anterior.)
 
 [4]Verificar Estoque
-    -Essa opção cria uma segunda janela de prompt com uma lista de todos os produtos em estoque. Esta janela pode ser mantida aberta para verificação e conferência enquanto o programa é executado na janela principal, mas ela não será atualizada conforme as modificações feitas na janela principal.
-    -Atenção: Para fechar a janela de verificação do estoque, selecione a janela e digite "exit."
+
+-Essa opção cria uma segunda janela de prompt com uma lista de todos os produtos em estoque. Esta janela pode ser mantida aberta para verificação e conferência enquanto o programa é executado na janela principal, mas ela não será atualizada conforme as modificações feitas na janela principal.
+
+-Atenção: Para fechar a janela de verificação do estoque, selecione a janela e digite "exit."
 
 [5]Encerrar o Programa com Segurança
